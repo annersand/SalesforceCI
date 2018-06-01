@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Superhero</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Superheros</value>
+    </caseValues>
+    <fields>
+        <label><!-- Picture --></label>
+        <name>Picture__c</name>
+    </fields>
+    <fields>
+        <label><!-- Super powers --></label>
+        <name>Super_powers__c</name>
+        <picklistValues>
+            <masterLabel>Armor</masterLabel>
+            <translation><!-- Armor --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Extreme speed</masterLabel>
+            <translation><!-- Extreme speed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Extreme strength</masterLabel>
+            <translation><!-- Extreme strength --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flying</masterLabel>
+            <translation><!-- Flying --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Telekinesis</masterLabel>
+            <translation><!-- Telekinesis --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
