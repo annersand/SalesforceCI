@@ -18,6 +18,10 @@
                 <behavior>Edit</behavior>
                 <field>Super_powers__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Sidekick__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
