@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Dinosaur</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Dinosaurs</value>
+    </caseValues>
+    <fields>
+        <label><!-- Diet --></label>
+        <name>Diet__c</name>
+        <picklistValues>
+            <masterLabel>Carnivorous</masterLabel>
+            <translation><!-- Carnivorous --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Herbivorous</masterLabel>
+            <translation><!-- Herbivorous --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Omnivorous</masterLabel>
+            <translation><!-- Omnivorous --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Locomotion --></label>
+        <name>Locomotion__c</name>
+        <picklistValues>
+            <masterLabel>Aquatic</masterLabel>
+            <translation><!-- Aquatic --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bipedal</masterLabel>
+            <translation><!-- Bipedal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Quadrupedal</masterLabel>
+            <translation><!-- Quadrupedal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Winged</masterLabel>
+            <translation><!-- Winged --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
