@@ -74,7 +74,7 @@
     <fields>
         <fullName>Transmission__c</fullName>
         <externalId>false</externalId>
-        <label>Transmission</label>
+        <label>Gears</label>
         <length>50</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
