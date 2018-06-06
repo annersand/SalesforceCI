@@ -18,6 +18,10 @@
                 <behavior>Edit</behavior>
                 <field>Locomotion__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Is_T_Rex__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

@@ -629,6 +629,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Dinosaur__c.Is_T_Rex__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Dinosaur__c.Locomotion__c</field>
         <readable>true</readable>
     </fieldPermissions>
